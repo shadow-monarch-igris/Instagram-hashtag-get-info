@@ -4,8 +4,8 @@ import pandas as pd
 import time
 
 # ================= CONFIG =================
-ACCESS_TOKEN = "EAAWum2I4bRkBQTWiefhiGlsc7gMUeVD05HU0wZAMxN0KzIbswpggT8lJUM4QELyZAINTrB42Q8cdqZBlQdf6ZCBoFZCtpgUX6ZBVaBvB2ryyEFgAJqJw5uRL5IH1IOEB0eSfjiFHvkJb9MtkxW1xFHDzYjK8VBHwXWIttY8Y52x36c6ZC6LlicGVTEaXOfkwAZDZD"
-IG_USER_ID = "17841480245320197"
+ACCESS_TOKEN = "acces token"
+IG_USER_ID = "your user id "
 GRAPH_URL = "https://graph.facebook.com/v24.0"
 
 # ================= API FUNCTIONS =================
