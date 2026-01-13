@@ -12,7 +12,7 @@ load_dotenv()
 
 # ================= CONFIG =================
 GRAPH_URL = "https://graph.facebook.com/v19.0"
-IG_USER_ID = os.getenv("IG_USER_ID", "17841480245320197")
+IG_USER_ID = os.getenv("IG_USER_ID", "")
 ACCESS_TOKEN = os.getenv("ACCESS_TOKEN", "")
 
 # ================= VALIDATION =================
